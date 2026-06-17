@@ -1,5 +1,5 @@
 # ChatApp
-A simple chat application built with React, Vite, Tailwind CSS and Firebase. Includes authentication and client-side session handling. 
+A real-time chat application built with React and Firebase. Users can sign in, join chat rooms, and exchange messages instantly.
 
 # Features
 Real-time chat (Firebase)
@@ -13,3 +13,8 @@ Tailwind CSS
 Firebase (Auth/Firestore/Realtime)
 universal-cookie
 react-icons
+
+# Screenshots
+![Sign In](screenshots/signin.png)
+![Sign In](screenshots/join.png)
+![Sign In](screenshots/chat.png)
